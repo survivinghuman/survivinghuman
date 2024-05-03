@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and networking
 - 🌱 I’m currently increasing my knowledge of python OOP
 - 📫 How to reach me: Keira20807@outlook.com
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/xe
 - ⚡ Fun fact: ...
 
 <!---
